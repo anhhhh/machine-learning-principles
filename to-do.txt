@@ -1,1 +1,2 @@
+- finishing lab 2 visualize residuals
 - finishing lab 3 cross validation
